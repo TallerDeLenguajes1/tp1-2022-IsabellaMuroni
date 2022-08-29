@@ -1,0 +1,15 @@
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.csproj.AssemblyReference.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.AssemblyInfoInputs.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.AssemblyInfo.cs
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.csproj.CoreCompileInputs.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\bin\Debug\net6.0\problema_2.exe
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\bin\Debug\net6.0\problema_2.deps.json
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\bin\Debug\net6.0\problema_2.runtimeconfig.json
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\bin\Debug\net6.0\problema_2.dll
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\bin\Debug\net6.0\problema_2.pdb
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.dll
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\refint\problema_2.dll
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.pdb
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\problema_2.genruntimeconfig.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\problema_2\obj\Debug\net6.0\ref\problema_2.dll
