@@ -1,0 +1,5 @@
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\punto_3\obj\Debug\net6.0\punto_3.csproj.AssemblyReference.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\punto_3\obj\Debug\net6.0\punto_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\punto_3\obj\Debug\net6.0\punto_3.AssemblyInfoInputs.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\punto_3\obj\Debug\net6.0\punto_3.AssemblyInfo.cs
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_1\tp1-2022-IsabellaMuroni\punto_3\obj\Debug\net6.0\punto_3.csproj.CoreCompileInputs.cache

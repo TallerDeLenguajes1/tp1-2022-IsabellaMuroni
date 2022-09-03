@@ -1,5 +1,9 @@
 ﻿using System;
-using Persona.cs;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Persona;
 
 namespace punto_3
 {
@@ -10,6 +14,9 @@ namespace punto_3
             Persona empleado;
 
             empleado = new Persona();
+
+            Console.WriteLine("Empleado");
+
         }
     }
 }
